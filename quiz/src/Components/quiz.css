@@ -1,0 +1,127 @@
+.header1 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+  margin-bottom: 50px;
+}
+body {
+  background-color: #413388;
+  display: flex;
+  justify-content: center;
+}
+.btn1 {
+  background-color: #06ad03;
+  border-radius: 30px;
+  box-shadow: 2px 2px black;
+  width: 150px;
+  height: 30px;
+  margin-top: -110px;
+  
+}
+.homepage {
+  height: 100vh;
+  padding-top: 251px;
+}
+
+body {
+  background-color: #423486;
+  justify-content: center;
+  text-align: center;
+  display: flex;
+}
+
+.box {
+  
+  width: 1150px;
+  height: 80vh;
+  background-color: white;
+}
+
+.content {
+  display: grid;
+  grid-template-columns: repeat(2, 2fr);
+  padding-top: 100px;
+}
+
+.choices {
+  padding: 10px 35%;
+  border-radius: 50px;
+  background-color: #1b9dee;
+  display: inline-block;
+  
+}
+
+.btn {
+  width: 100px;
+}
+
+.not {
+  margin-left: 30px;
+  display: flex;
+  color: black;
+
+}
+.btn {
+  margin-left: 40px;
+  height: 5vh;
+
+}
+.previous {
+  background-color: #3779a5;
+}
+.next {
+  background-color: #008001;
+}
+.quit {
+  background-color: #ec0000;
+}
+.result {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+}
+.qna {
+  padding-left: 40px;
+  padding-right: 40px;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: -19px;
+}
+.butons {
+  width: 1175px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 30px;
+}
+.option {
+  color: white;
+}
+.box1 {
+  width: 710px;
+  background-color: white;
+  height: 355px;
+}
+h1, h3, h4{
+  color: black;
+}
+.tag {
+  color: #028f02;
+}
+.score {
+  font-size: 32px;
+  color: #0000fa;
+}
+.buttonn {
+  display: flex;
+  justify-content: space-between;
+  width: 205px;
+  margin-top: 32px;
+}
+.play {
+  color: #7e7ee4;
+}
+.home {
+  color: #008002;
+}
